@@ -4,3 +4,7 @@ Forrest Gump ist männlich und der Film geht über sein gesamtes Leben. Es begin
 * kann schnell laufen
 * kann weit laufen
 * läuft überaus gerne
+
+
+##Zitat
+> Das Leben ist wie eine Pralinenschachtel, man weiß nie was man bekommt.
