@@ -7,4 +7,4 @@ Forrest Gump ist männlich und der Film geht über sein gesamtes Leben. Es begin
 
 
 ##Zitat
-Das Leben ist wie eine Pralinenschachtel, man weiß nie was man bekommt.
+> Das Leben ist wie eine Pralinenschachtel, man weiß nie was man bekommt.
