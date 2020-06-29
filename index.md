@@ -3,4 +3,4 @@ Forrest Gump ist männlich und der Film geht über sein gesamtes Leben. Es begin
 ## Eigenschaften des Charakters
 * kann schnell laufen
 * kann weit laufen
-* läuft überaus gerne
+* läuft für sein Leben gerne
